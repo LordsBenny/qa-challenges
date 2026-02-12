@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "Question 3: API Verification"
+description = "Automate the verification of market data for a specific instrument using an API endpoint from the Shenzhen Stock Exchange (SZSE) website."
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+pytest = "^7.4.0"
