@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "Question 2: App UI Verification"
+description = "Automate the verification of the weather forecast in the 'MyObservatory' app from the HongKong Observatory."
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+appium-python-client = "^3.1.0"
+pytest = "^7.4.0"
+pytz = "^2023.3"
+datetime = "^5.1"

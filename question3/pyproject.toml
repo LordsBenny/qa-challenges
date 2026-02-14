@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "Question 3: API Verification"
 description = "Automate the verification of market data for a specific instrument using an API endpoint from the Shenzhen Stock Exchange (SZSE) website."
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
